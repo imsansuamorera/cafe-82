@@ -1,0 +1,24 @@
+/* Properties */
+
+/* Header Fonts */
+@font-face {
+  font-family: "Outfit Bold";
+  src: url(./font/Outfit-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Outfit Medium";
+  src: url(./font/Outfit-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Outfit Regular";
+  src: url(./font/Outfit-Regular.ttf);
+}
+
+/* Body Fonts */
+
+@font-face {
+  font-family: "Lyon Display Web";
+  src: url(./font/Lyon\ Display\ Web\ Regular\ Regular.otf);
+}
